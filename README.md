@@ -5,6 +5,9 @@
 ![](schad.png)
 Acessado em [Meu currículo](https://schad17.github.io)
 
+## MEU CERTIFICADO DO CURSO DE GIT 
+
+![](Certificado.jpg)
 ### Meta 
 
 **SCHADRAC WANZA ISULA** - *[@schadwanza](https://twitter.com/schadwanza) - schadracw@hotmail.com - schadracw@gmail.com - schadrac@ufpr.br*
