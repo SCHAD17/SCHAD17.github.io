@@ -110,6 +110,8 @@ p {
   font-size: 15px;
   margin: 0 0 10px;
   font-weight: 400;
+  text-align: justify;
+ 
 }
 
 p.lead {
